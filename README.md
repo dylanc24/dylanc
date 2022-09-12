@@ -1,5 +1,5 @@
 # 💫 About Me:
-19 years old -  Student in Cybersecurity
+ 20 years old -  Student in Cybersecurity
 
 
 ## 🌐 Socials:
