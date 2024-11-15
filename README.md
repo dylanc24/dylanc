@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Dylan</h1>
 <h3 align="center">Student in Cybersecurity</h3>
 
+<h4 align="center">Currently: Master's in Computer Architecture (Cloud/Security)</h4>
+<h4 align="center">Bachelor's in Cybersecurity</h4>
 - 👨‍💻 All of my projects are available at [https://dylanc.be](https://dylanc.be)
 
 - 📫 How to reach me **pro@dylanc.be**
+- 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
