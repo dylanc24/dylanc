@@ -3,8 +3,8 @@
 
 - 👨‍💻 All of my projects are available at [https://dylanc.be](https://dylanc.be)
 - 📫 How to reach me **pro@dylanc.be**
-- 🧑‍🎓 Master's in Computer Architecture (Cloud/Security) - 2024 - ...
-- 🧑‍🎓 Bachelor's in Cybersecurity - 2021 - 2024
+- 🧑‍🎓 Master's in Computer Architecture (Cloud/Security) - 2024 ➡️ ...
+- 🧑‍🎓 Bachelor's in Cybersecurity - 2021 ➡️ 2024
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
